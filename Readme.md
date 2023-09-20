@@ -21,7 +21,7 @@ Academic Grades Report Data (academic_grades_report.zip): This dataset includes 
 
 ## Project Phases:
 
-Part 1: Understanding Freshmen Course Selection
+#### Part 1: Understanding Freshmen Course Selection
 
 •	The primary objective is to determine which courses incoming freshmen typically enroll in during their first Fall semester, based on their declared majors.
 
@@ -29,7 +29,8 @@ Part 1: Understanding Freshmen Course Selection
 
 •	Identifying "First Time Freshmen" is a crucial step in this part, which is based on the 'STYP_DESC' field.
 
-Part 2: Exploring Academic Paths
+#### Part 2: Exploring Academic Paths
+
 •	In this phase, the project focuses on understanding the academic paths students follow within specific majors or programs.
 
 •	This phase involves extensive exploratory data analysis (EDA) to uncover various paths and course sequences.
