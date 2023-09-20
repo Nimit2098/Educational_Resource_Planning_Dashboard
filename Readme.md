@@ -17,7 +17,7 @@ Enrolled Students Data (enrolled_students.zip): This dataset contains demographi
 Academic Grades Report Data (academic_grades_report.zip): This dataset includes information about the courses taken by students, including grades obtained for each class for various semesters.
 
 ## Data model
-<img src="Data_model_PoliceCrime.jpeg">
+<img src="Course_Data_model.jpg">
 
 ## Project Phases:
 
